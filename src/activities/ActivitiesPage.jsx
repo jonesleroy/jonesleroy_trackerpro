@@ -2,6 +2,7 @@ import { useAuth } from "../auth/AuthContext";
 
 import ActivityList from "./ActivityList";
 import ActivityForm from "./ActivityForm";
+import ActivityDetails from "./ActivityDetails";
 
 /**
  * All users can see a list of activities.
